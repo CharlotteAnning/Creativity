@@ -9,7 +9,7 @@ Leading on from this is my portfolio for the third year sequel to the second yea
 
 ![BP&IP2](biological_photographing_and_imaging_portfolio_2/page_0.png)
 
-Bee-cause you liked the first two, here is a poster I made for a Social Insetcs Year 3 module about a North American bee war.
+Bee-cause you liked the first two, here is a poster I made for a Social Insects BSc Year 3 module about a North American bee war. I loved playing around with fun ways to present the data.
 
 ![SIP](social_biology_poster.png)
 
