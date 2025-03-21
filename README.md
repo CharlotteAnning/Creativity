@@ -13,3 +13,7 @@ Bee-cause you liked the first two, here is a poster I made for a Social Insects 
 
 ![SIP](social_biology_poster.png)
 
+Here's some figures extracted from a biodiversity report I completed at the David Attenborough Nature Reserve in Nottingham! The aim of this survey was to detect whether a pollution gradient existed from the Erewash (a known site of entry of industrial waste runoff) to the Delta sanctuary where re-wilding efforts were creating a reduction in anthropogenic impact. A relative abundance gradient was discovered from the Erewash to Barton Lane and another from Barton Lane to the Delta Sanctuary indicating two possible sites where contaminants/pollutants were infiltrating the Reserve. I concluded both sites were being affected by human footfall and pollution.
+
+![ABS](aquatic_biology_survey.png)
+
